@@ -5,9 +5,9 @@
 ---
 ## Recommended Set up
 
-> Player Limit: 4 - 16
-> Recommended player count: 7+
-> Technical requirements: Only compatible on Windows.
++ Player Limit: 4 - 16
++ Recommended player count: 7+
++ Technical requirements: Only compatible on Windows.
 
 ---
 
