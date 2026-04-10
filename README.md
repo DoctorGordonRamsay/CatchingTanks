@@ -8,6 +8,7 @@
 + Player Limit: 4 - 16
 + Recommended player count: 7+
 + Technical requirements: Only compatible on Windows.
++ Communication: Discord or any other voice chat services with friends.
 
 ---
 
